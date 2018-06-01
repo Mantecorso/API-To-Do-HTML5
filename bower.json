@@ -1,0 +1,21 @@
+{
+  "name": "API-To-Do-HTML5",
+  "homepage": "https://github.com/Mantecorso/API-To-Do-HTML5",
+  "authors": [
+    "Mantecorso <luisjuradoquesada@gmail.com>"
+  ],
+  "description": "Tareas guardadas en DOM",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
